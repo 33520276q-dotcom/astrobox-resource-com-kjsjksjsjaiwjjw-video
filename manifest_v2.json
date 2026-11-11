@@ -39,10 +39,14 @@
   ],
   "downloads": {
     "xmrw5": {
-      "version": "1.5.7",
-      "file_name": "downloads/mi-album-watch-1.5.7.rpk",
-      "versionCode": 29,
+      "version": "1.5.9",
+      "file_name": "downloads/mi-album-watch-1.5.9.rpk",
+      "versionCode": 31,
       "updatelogs": [
+        {
+          "version": "1.5.9",
+          "content": "修复部分bug"
+        },
         {
           "version": "1.5.7",
           "content": "修复大量bug，支持给10p同步"
@@ -50,10 +54,14 @@
       ]
     },
     "xmrw5xring": {
-      "version": "1.5.7",
-      "file_name": "downloads/mi-album-watch-1.5.7.rpk",
-      "versionCode": 29,
+      "version": "1.5.9",
+      "file_name": "downloads/mi-album-watch-1.5.9.rpk",
+      "versionCode": 31,
       "updatelogs": [
+        {
+          "version": "1.5.9",
+          "content": "修复部分bug"
+        },
         {
           "version": "1.5.7",
           "content": "修复大量bug，支持给10p同步"
@@ -61,10 +69,14 @@
       ]
     },
     "xmrw6": {
-      "version": "1.5.7",
-      "file_name": "downloads/mi-album-watch-1.5.7.rpk",
-      "versionCode": 29,
+      "version": "1.5.9",
+      "file_name": "downloads/mi-album-watch-1.5.9.rpk",
+      "versionCode": 31,
       "updatelogs": [
+        {
+          "version": "1.5.9",
+          "content": "修复部分bug"
+        },
         {
           "version": "1.5.7",
           "content": "修复大量bug，支持给10p同步"
@@ -72,10 +84,14 @@
       ]
     },
     "xmb9p": {
-      "version": "1.5.7",
-      "file_name": "downloads/mi-album-watch-1.5.7.rpk",
-      "versionCode": 29,
+      "version": "1.5.9",
+      "file_name": "downloads/mi-album-watch-1.5.9.rpk",
+      "versionCode": 31,
       "updatelogs": [
+        {
+          "version": "1.5.9",
+          "content": "修复部分bug"
+        },
         {
           "version": "1.5.7",
           "content": "修复大量bug，支持给10p同步"
@@ -83,10 +99,14 @@
       ]
     },
     "xmb10p": {
-      "version": "1.5.7",
-      "file_name": "downloads/mi-album-watch-1.5.7.rpk",
-      "versionCode": 29,
+      "version": "1.5.9",
+      "file_name": "downloads/mi-album-watch-1.5.9.rpk",
+      "versionCode": 31,
       "updatelogs": [
+        {
+          "version": "1.5.9",
+          "content": "修复部分bug"
+        },
         {
           "version": "1.5.7",
           "content": "修复大量bug，支持给10p同步"
@@ -94,10 +114,14 @@
       ]
     },
     "xmws3": {
-      "version": "1.5.7",
-      "file_name": "downloads/mi-album-watch-1.5.7.rpk",
-      "versionCode": 29,
+      "version": "1.5.9",
+      "file_name": "downloads/mi-album-watch-1.5.9.rpk",
+      "versionCode": 31,
       "updatelogs": [
+        {
+          "version": "1.5.9",
+          "content": "修复部分bug"
+        },
         {
           "version": "1.5.7",
           "content": "修复大量bug，支持给10p同步"
@@ -105,10 +129,14 @@
       ]
     },
     "xmws441": {
-      "version": "1.5.7",
-      "file_name": "downloads/mi-album-watch-1.5.7.rpk",
-      "versionCode": 29,
+      "version": "1.5.9",
+      "file_name": "downloads/mi-album-watch-1.5.9.rpk",
+      "versionCode": 31,
       "updatelogs": [
+        {
+          "version": "1.5.9",
+          "content": "修复部分bug"
+        },
         {
           "version": "1.5.7",
           "content": "修复大量bug，支持给10p同步"
@@ -116,10 +144,14 @@
       ]
     },
     "xmws4xring": {
-      "version": "1.5.7",
-      "file_name": "downloads/mi-album-watch-1.5.7.rpk",
-      "versionCode": 29,
+      "version": "1.5.9",
+      "file_name": "downloads/mi-album-watch-1.5.9.rpk",
+      "versionCode": 31,
       "updatelogs": [
+        {
+          "version": "1.5.9",
+          "content": "修复部分bug"
+        },
         {
           "version": "1.5.7",
           "content": "修复大量bug，支持给10p同步"
@@ -127,10 +159,14 @@
       ]
     },
     "xmws4": {
-      "version": "1.5.7",
-      "file_name": "downloads/mi-album-watch-1.5.7.rpk",
-      "versionCode": 29,
+      "version": "1.5.9",
+      "file_name": "downloads/mi-album-watch-1.5.9.rpk",
+      "versionCode": 31,
       "updatelogs": [
+        {
+          "version": "1.5.9",
+          "content": "修复部分bug"
+        },
         {
           "version": "1.5.7",
           "content": "修复大量bug，支持给10p同步"
