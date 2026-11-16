@@ -3,7 +3,7 @@
     "id": "com.kjsjksjsjaiwjjw.video",
     "restype": "quick_app",
     "name": "米环相册",
-    "description": "还在为手表不能放视频而烦恼吗？还在羡慕别人的安卓手表能看视频吗？你一定需要米环相册。即使在学校，你的米环/米表也能看视频。不仅能看图片，而且可以在手表上流畅播放视频，手表最高可以播放15帧的视频。点开还能放大图片。私密相册保护你的隐私。蓝牙一键传到手表。多设备兼容。售价仅需3.99元\n反馈建议加QQ群:2167076197",
+    "description": "还在为手表不能放视频而烦恼吗？还在羡慕别人的安卓手表能看视频吗？你一定需要米环相册。即使在学校，你的米环/米表也能看视频。不仅能看图片，而且可以在手表上流畅播放视频，手表最高可以播放15帧的视频。点开还能放大图片。私密相册保护你的隐私。蓝牙一键传到手表。多设备兼容。售价仅需3.99元。暂不支持iOS设备\n反馈建议加QQ群:2167076197",
     "preview": [
       "media/mi_album_cover_v14_1200x800.png",
       "media/redmi_watch-2026-11-07-21-19-58.png",
@@ -22,27 +22,31 @@
   },
   "links": [
     {
-      "title": "官网首页",
+      "title": "官网",
       "url": "https://cloudband.store",
       "icon": "globe"
     },
     {
-      "title": "下载手机端同步器(官网)",
+      "title": "下载安卓端同步器(官网)",
       "url": "https://cloudband.store/apps/wristvideo",
       "icon": "download"
     },
     {
-      "title": "下载手机端同步器(网盘)",
+      "title": "下载安卓端同步器(网盘)",
       "url": "https://pan.quark.cn/s/cd73f6133726",
       "icon": "download"
     }
   ],
   "downloads": {
     "xmrw5": {
-      "version": "1.5.9",
-      "file_name": "downloads/mi-album-watch-1.5.9.rpk",
-      "versionCode": 31,
+      "version": "1.6.6",
+      "file_name": "downloads/mi-album-watch-1.6.6.rpk",
+      "versionCode": 38,
       "updatelogs": [
+        {
+          "version": "1.6.6",
+          "content": "修复部分bug，增加高级设置"
+        },
         {
           "version": "1.5.9",
           "content": "修复部分bug"
@@ -54,10 +58,14 @@
       ]
     },
     "xmrw5xring": {
-      "version": "1.5.9",
-      "file_name": "downloads/mi-album-watch-1.5.9.rpk",
-      "versionCode": 31,
+      "version": "1.6.6",
+      "file_name": "downloads/mi-album-watch-1.6.6.rpk",
+      "versionCode": 38,
       "updatelogs": [
+        {
+          "version": "1.6.6",
+          "content": "修复部分bug，增加高级设置"
+        },
         {
           "version": "1.5.9",
           "content": "修复部分bug"
@@ -69,10 +77,14 @@
       ]
     },
     "xmrw6": {
-      "version": "1.5.9",
-      "file_name": "downloads/mi-album-watch-1.5.9.rpk",
-      "versionCode": 31,
+      "version": "1.6.6",
+      "file_name": "downloads/mi-album-watch-1.6.6.rpk",
+      "versionCode": 38,
       "updatelogs": [
+        {
+          "version": "1.6.6",
+          "content": "修复部分bug，增加高级设置"
+        },
         {
           "version": "1.5.9",
           "content": "修复部分bug"
@@ -84,10 +96,14 @@
       ]
     },
     "xmb9p": {
-      "version": "1.5.9",
-      "file_name": "downloads/mi-album-watch-1.5.9.rpk",
-      "versionCode": 31,
+      "version": "1.6.6",
+      "file_name": "downloads/mi-album-watch-1.6.6.rpk",
+      "versionCode": 38,
       "updatelogs": [
+        {
+          "version": "1.6.6",
+          "content": "修复部分bug，增加高级设置"
+        },
         {
           "version": "1.5.9",
           "content": "修复部分bug"
@@ -99,10 +115,14 @@
       ]
     },
     "xmb10p": {
-      "version": "1.5.9",
-      "file_name": "downloads/mi-album-watch-1.5.9.rpk",
-      "versionCode": 31,
+      "version": "1.6.6",
+      "file_name": "downloads/mi-album-watch-1.6.6.rpk",
+      "versionCode": 38,
       "updatelogs": [
+        {
+          "version": "1.6.6",
+          "content": "修复部分bug，增加高级设置"
+        },
         {
           "version": "1.5.9",
           "content": "修复部分bug"
@@ -114,10 +134,14 @@
       ]
     },
     "xmws3": {
-      "version": "1.5.9",
-      "file_name": "downloads/mi-album-watch-1.5.9.rpk",
-      "versionCode": 31,
+      "version": "1.6.6",
+      "file_name": "downloads/mi-album-watch-1.6.6.rpk",
+      "versionCode": 38,
       "updatelogs": [
+        {
+          "version": "1.6.6",
+          "content": "修复部分bug，增加高级设置"
+        },
         {
           "version": "1.5.9",
           "content": "修复部分bug"
@@ -129,10 +153,14 @@
       ]
     },
     "xmws441": {
-      "version": "1.5.9",
-      "file_name": "downloads/mi-album-watch-1.5.9.rpk",
-      "versionCode": 31,
+      "version": "1.6.6",
+      "file_name": "downloads/mi-album-watch-1.6.6.rpk",
+      "versionCode": 38,
       "updatelogs": [
+        {
+          "version": "1.6.6",
+          "content": "修复部分bug，增加高级设置"
+        },
         {
           "version": "1.5.9",
           "content": "修复部分bug"
@@ -144,10 +172,14 @@
       ]
     },
     "xmws4xring": {
-      "version": "1.5.9",
-      "file_name": "downloads/mi-album-watch-1.5.9.rpk",
-      "versionCode": 31,
+      "version": "1.6.6",
+      "file_name": "downloads/mi-album-watch-1.6.6.rpk",
+      "versionCode": 38,
       "updatelogs": [
+        {
+          "version": "1.6.6",
+          "content": "修复部分bug，增加高级设置"
+        },
         {
           "version": "1.5.9",
           "content": "修复部分bug"
@@ -159,10 +191,14 @@
       ]
     },
     "xmws4": {
-      "version": "1.5.9",
-      "file_name": "downloads/mi-album-watch-1.5.9.rpk",
-      "versionCode": 31,
+      "version": "1.6.6",
+      "file_name": "downloads/mi-album-watch-1.6.6.rpk",
+      "versionCode": 38,
       "updatelogs": [
+        {
+          "version": "1.6.6",
+          "content": "修复部分bug，增加高级设置"
+        },
         {
           "version": "1.5.9",
           "content": "修复部分bug"
@@ -174,5 +210,7 @@
       ]
     }
   },
-  "ext": {}
+  "ext": {
+    "enableAstroBoxCreatorFeatures": true
+  }
 }
