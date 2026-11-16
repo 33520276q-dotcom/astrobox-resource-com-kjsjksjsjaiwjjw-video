@@ -208,6 +208,44 @@
           "content": "修复大量bug，支持给10p同步"
         }
       ]
+    },
+    "xmws541": {
+      "version": "1.6.6",
+      "file_name": "downloads/mi-album-watch-1.6.6.rpk",
+      "versionCode": 38,
+      "updatelogs": [
+        {
+          "version": "1.6.6",
+          "content": "修复部分bug，增加高级设置"
+        },
+        {
+          "version": "1.5.9",
+          "content": "修复部分bug"
+        },
+        {
+          "version": "1.5.7",
+          "content": "修复大量bug，支持给10p同步"
+        }
+      ]
+    },
+    "xmws5": {
+      "version": "1.6.6",
+      "file_name": "downloads/mi-album-watch-1.6.6.rpk",
+      "versionCode": 38,
+      "updatelogs": [
+        {
+          "version": "1.6.6",
+          "content": "修复部分bug，增加高级设置"
+        },
+        {
+          "version": "1.5.9",
+          "content": "修复部分bug"
+        },
+        {
+          "version": "1.5.7",
+          "content": "修复大量bug，支持给10p同步"
+        }
+      ]
     }
   },
   "ext": {
