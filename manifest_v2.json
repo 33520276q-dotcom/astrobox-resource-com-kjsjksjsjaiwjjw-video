@@ -248,7 +248,5 @@
       ]
     }
   },
-  "ext": {
-    "enableAstroBoxCreatorFeatures": true
-  }
+  "ext": {}
 }
